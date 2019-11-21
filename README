@@ -1,0 +1,13 @@
+This module handles parsing of date/time specifications as used by
+Analog (http://www.analog.cx/)
+ 
+INSTALLATION
+ 
+To install this module type the following in the distribution
+directory:
+ 
+   perl Makefile.PL
+   make
+   make test
+   make install
+
